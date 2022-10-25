@@ -1,4 +1,4 @@
-def run():
+""" def run():
 
     contador = 1
     print (contador)
@@ -7,5 +7,8 @@ def run():
         print(contador)
 
 if __name__ == "__main__" :
-    run()
-      gsdggsdg
+    run() """
+
+for contador in range (1,1001):
+    print(contador)
+    

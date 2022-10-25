@@ -1,4 +1,4 @@
-def run():
+""" def run():
     LIMITE = 100000
 
     contador = 0
@@ -10,4 +10,4 @@ def run():
 
 if __name__ == "__main__" :
     run()
-
+ """
