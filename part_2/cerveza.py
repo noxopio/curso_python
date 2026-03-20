@@ -1,0 +1,6 @@
+firstWord = input("¿Cuál es tu primera palabra?")
+secondWord = input("¿Cuál es tu segunda palabra?")
+print("Tu cerveza es:\n ")
+print(" '" + firstWord + " " + secondWord + "' ")
+print(type(firstWord))
+print(type(secondWord))

@@ -1,0 +1,8 @@
+Espresso
+Latte
+Espresso
+Americano
+Americano
+Latte
+Cappuccino
+Cappuccino
